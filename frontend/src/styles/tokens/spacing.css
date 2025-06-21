@@ -20,6 +20,7 @@
   --space-lg:  calc(var(--space-base) * 6);   /* 24px */
   --space-xl:  calc(var(--space-base) * 8);   /* 32px */
   --space-xxl: calc(var(--space-base) * 10);  /* 40px */
+  --space-3xl: calc(var(--space-base) * 24); /* 96px */
 }
 
 /* Mobile overrides */
